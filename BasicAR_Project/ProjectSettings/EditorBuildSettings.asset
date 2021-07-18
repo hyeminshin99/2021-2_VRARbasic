@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CarScene.unity
+    guid: 0f9db50d1a9f41f4b860e42532511648
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b1a1b0cdbc8cc0345a26e50090d65763, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 6d7808ba7be055f43b5cc3696c5cde89, type: 2}
