@@ -1,7 +1,7 @@
 # 2021-2_VRARbasic
 2021-1 Unity VR AR project
 
-1. AR
+1. AR 증강현실
 1) 지형인식
 2) 얼굴인식
 3) 마커인식
@@ -20,3 +20,8 @@ The Impact of Avatar Appearance, Perspective and Context on Gait Variability and
 Using Virtual Reality to Support Acting in Motion Capture with Differently Scaled Characters  
 Visualizing Planetary Spectroscopy through Immersive On-site Rendering  
 Evaluating the Potential of Glanceable AR Interfaces for Authentic Everyday UsesGlassable AR  
+
+
+***
+##### AR 글라스 확대-> 하드웨어 문제가 해결
+##### 소프트웨어 기술만 부재. 소프트웨어 분야가 필요함
