@@ -10,6 +10,10 @@
 2. VR
 #### WebVR- WebGL사용
 
+***
+### 제페토 공간만들기 _ zepeto build it × 블루스택5 64bit
+
+
 ### 참고> 인생 유니티 VR/AR 교과서
 #### 학교 연구실 프로젝트 진행> VR 온라인 전시관
 ##### 2021 VR IEEE 논문> Revealable Volume Displays: 3D Exploration of Mixed-Reality Public Exhibitions  
