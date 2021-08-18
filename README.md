@@ -16,16 +16,8 @@
 
 ### 참고> 인생 유니티 VR/AR 교과서
 #### 학교 연구실 프로젝트 진행> VR 온라인 전시관
-##### 2021 VR IEEE 논문> Revealable Volume Displays: 3D Exploration of Mixed-Reality Public Exhibitions  
-Augmented Reality for Maritime Navigation Assistance - Egocentric Depth Perception in Large Distance Outdoor Environments  
-Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures for Virtual Agents  
-Work Surface Arrangement Optimization Driven by Human Activity  
-The Impact of Avatar Appearance, Perspective and Context on Gait Variability and User Experience in Virtual Reality  
-Using Virtual Reality to Support Acting in Motion Capture with Differently Scaled Characters  
-Visualizing Planetary Spectroscopy through Immersive On-site Rendering  
+##### 2021 VR IEEE 논문> 
 Evaluating the Potential of Glanceable AR Interfaces for Authentic Everyday UsesGlassable AR  
-
-
 ***
 ##### AR 글라스 확대-> 하드웨어 문제가 해결
 ##### 소프트웨어 기술만 부재. 소프트웨어 분야가 필요함
