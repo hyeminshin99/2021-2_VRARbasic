@@ -11,7 +11,7 @@
 #### WebVR- WebGL사용
 
 ***
-### 제페토 공간만들기 _ zepeto build it × 블루스택5 64bit
+### 제페토 공간만들기 _ zepeto build it × 블루스택5 64bit, 기술자문_메타버스 알바
 
 
 ### 참고> 인생 유니티 VR/AR 교과서
