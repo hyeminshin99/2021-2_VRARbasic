@@ -11,11 +11,11 @@
 #### WebVR- WebGL사용
 
 ***
-### 제페토 공간만들기 _ zepeto build it × 블루스택5 64bit, 기술자문_메타버스 알바
+### 제페토 공간만들기 _ zepeto build it × 블루스택5 64bit, 기술자문_메타버스
 
 
 ### 참고> 인생 유니티 VR/AR 교과서
-#### 학교 연구실 프로젝트 진행> VR 온라인 전시관
+#### 학부연구생_학교 연구실 프로젝트 진행/회사> 
 ##### 2021 VR IEEE 논문> 
 Evaluating the Potential of Glanceable AR Interfaces for Authentic Everyday UsesGlassable AR  
 ***
