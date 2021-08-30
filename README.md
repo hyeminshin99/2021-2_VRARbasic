@@ -18,6 +18,7 @@
 #### 학부연구생_학교 연구실 프로젝트 진행/회사> 
 ##### 2021 VR IEEE 논문> 
 Evaluating the Potential of Glanceable AR Interfaces for Authentic Everyday UsesGlassable AR  
+#### 홀로그램, AR구분 필요함
 ***
 ##### AR 글라스 확대-> 하드웨어 문제가 해결
 ##### 소프트웨어 기술만 부재. 소프트웨어 분야가 필요함
