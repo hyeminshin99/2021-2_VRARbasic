@@ -18,7 +18,7 @@ Evaluating the Potential of Glanceable AR Interfaces for Authentic Everyday Uses
 #### 메타버스 관련 알바ㅡ제페토 공간만들기 _ zepeto build it × 블루스택5 64bit, 기술자문_메타버스
 
 
-##### 홀로그램 ㅡ 아날로그 / 디지털 / 유사 구분
+##### 홀로그램 ㅡ 아날로그 / 디지털 / 유사 구분 - 홀로그램 가구 프로젝트
 ***
 ##### AR 글라스 확대-> 하드웨어 문제가 해결
 ##### 소프트웨어 기술만 부재. 소프트웨어 분야가 필요함
